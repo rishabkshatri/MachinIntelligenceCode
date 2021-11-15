@@ -1,1 +1,1 @@
-# MachinIntelligenceCode
+# MICode
